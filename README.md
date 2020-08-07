@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Chilled OJ 👋
 
 <!--
 **chilledoj/chilledoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-OliverJackman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliver-jackman-b14b9511/)](https://www.linkedin.com/in/oliver-jackman-b14b9511/)
+
+I'm a tehnical business analyst, which means that i'm a business analyst with a huge interest in development and the more technical side.
+
